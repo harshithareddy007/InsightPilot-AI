@@ -1,101 +1,51 @@
-deal_id	company	region	sales_rep	deal_value	stage	close_probability	last_activity_days	industry	quarter	year
-1	TechNova	Hyderabad	Aarav	250000	Negotiation	60	5	FinTech	Q1	2025
-2	MedCare	Bangalore	Sneha	180000	Proposal	70	3	Healthcare	Q1	2025
-3	RetailHub	Mumbai	Rohan	95000	Lead	30	10	Retail	Q1	2025
-4	EduNext	Chennai	Priya	120000	Negotiation	55	8	EdTech	Q1	2025
-5	FinSpark	Hyderabad	Vikram	310000	Proposal	75	2	FinTech	Q1	2025
-6	HealthPlus	Bangalore	Neha	210000	Negotiation	50	6	Healthcare	Q1	2025
-7	ShopEase	Delhi	Aarav	87000	Lead	25	14	Retail	Q1	2025
-8	LearnEdge	Chennai	Sneha	135000	Proposal	65	4	EdTech	Q1	2025
-9	FinEdge	Mumbai	Rohan	270000	Negotiation	60	7	FinTech	Q1	2025
-10	CareWell	Hyderabad	Priya	160000	Proposal	72	3	Healthcare	Q1	2025
-11	RetailMart	Bangalore	Vikram	110000	Lead	35	9	Retail	Q1	2025
-12	EduBridge	Delhi	Neha	145000	Negotiation	58	6	EdTech	Q1	2025
-13	PayWave	Hyderabad	Aarav	290000	Proposal	78	2	FinTech	Q1	2025
-14	MediLife	Chennai	Sneha	200000	Negotiation	62	5	Healthcare	Q1	2025
-15	RetailFlow	Mumbai	Rohan	92000	Lead	28	12	Retail	Q1	2025
-16	CloudAxis	Hyderabad	Aarav	220000	Negotiation	55	6	FinTech	Q1	2025
-17	MedPrime	Bangalore	Sneha	175000	Proposal	70	3	Healthcare	Q1	2025
-18	ShopSphere	Mumbai	Rohan	82000	Lead	28	12	Retail	Q1	2025
-19	Learnify	Chennai	Priya	140000	Negotiation	60	7	EdTech	Q1	2025
-20	PayGrid	Hyderabad	Vikram	310000	Proposal	78	2	FinTech	Q1	2025
-21	HealthBridge	Bangalore	Neha	200000	Negotiation	52	6	Healthcare	Q1	2025
-22	MarketHive	Delhi	Aarav	90000	Lead	30	11	Retail	Q1	2025
-23	SkillWave	Chennai	Sneha	130000	Proposal	66	4	EdTech	Q1	2025
-24	FinOrbit	Mumbai	Rohan	260000	Negotiation	58	5	FinTech	Q1	2025
-25	CareNet	Hyderabad	Priya	165000	Proposal	72	3	Healthcare	Q1	2025
-26	RetailPulse	Bangalore	Vikram	105000	Lead	34	9	Retail	Q1	2025
-27	StudySync	Delhi	Neha	148000	Negotiation	60	6	EdTech	Q1	2025
-28	PayOrbit	Hyderabad	Aarav	295000	Proposal	80	2	FinTech	Q1	2025
-29	MediServe	Chennai	Sneha	210000	Negotiation	62	4	Healthcare	Q1	2025
-30	ShopVerse	Mumbai	Rohan	95000	Lead	27	13	Retail	Q1	2025
-31	LearnSpark	Chennai	Priya	155000	Proposal	68	5	EdTech	Q1	2025
-32	FinLink	Hyderabad	Vikram	285000	Negotiation	63	6	FinTech	Q1	2025
-33	HealthPoint	Bangalore	Neha	195000	Proposal	71	3	Healthcare	Q1	2025
-34	RetailWorks	Delhi	Aarav	88000	Lead	26	12	Retail	Q1	2025
-35	SkillHub	Chennai	Sneha	142000	Negotiation	59	6	EdTech	Q1	2025
-36	PaySmart	Mumbai	Rohan	270000	Proposal	74	3	FinTech	Q1	2025
-37	MediPlus	Hyderabad	Priya	178000	Negotiation	57	5	Healthcare	Q1	2025
-38	MarketFlow	Bangalore	Vikram	100000	Lead	35	10	Retail	Q1	2025
-39	LearnNest	Delhi	Neha	136000	Proposal	67	4	EdTech	Q1	2025
-40	FinCore	Hyderabad	Aarav	305000	Negotiation	61	7	FinTech	Q1	2025
-41	HealthCareX	Chennai	Sneha	198000	Proposal	73	3	Healthcare	Q1	2025
-42	RetailCraft	Mumbai	Rohan	93000	Lead	29	11	Retail	Q1	2025
-43	SkillForge	Chennai	Priya	150000	Negotiation	58	6	EdTech	Q1	2025
-44	PayBridge	Hyderabad	Vikram	288000	Proposal	77	2	FinTech	Q1	2025
-45	MedAlliance	Bangalore	Neha	208000	Negotiation	54	5	Healthcare	Q1	2025
-46	ShopWave	Delhi	Aarav	87000	Lead	30	12	Retail	Q1	2025
-47	StudyCore	Chennai	Sneha	134000	Proposal	65	4	EdTech	Q1	2025
-48	FinMatrix	Mumbai	Rohan	275000	Negotiation	60	6	FinTech	Q1	2025
-49	HealthMatrix	Hyderabad	Priya	182000	Proposal	72	3	Healthcare	Q1	2025
-50	RetailAxis	Bangalore	Vikram	112000	Lead	32	9	Retail	Q1	2025
-51	LearnOrbit	Delhi	Neha	145000	Negotiation	61	5	EdTech	Q1	2025
-52	PayNova	Hyderabad	Aarav	298000	Proposal	79	2	FinTech	Q1	2025
-53	MediGrid	Chennai	Sneha	205000	Negotiation	55	6	Healthcare	Q1	2025
-54	ShopAxis	Mumbai	Rohan	90000	Lead	28	13	Retail	Q1	2025
-55	SkillNova	Chennai	Priya	152000	Proposal	69	4	EdTech	Q1	2025
-56	FinPilot	Hyderabad	Vikram	290000	Negotiation	64	5	FinTech	Q1	2025
-57	HealthWorks	Bangalore	Neha	198000	Proposal	71	3	Healthcare	Q1	2025
-58	RetailNova	Delhi	Aarav	92000	Lead	27	11	Retail	Q1	2025
-59	LearnMatrix	Chennai	Sneha	140000	Negotiation	60	6	EdTech	Q1	2025
-60	PayWorks	Mumbai	Rohan	272000	Proposal	75	3	FinTech	Q1	2025
-61	MediCarePro	Hyderabad	Priya	185000	Negotiation	56	6	Healthcare	Q1	2025
-62	ShopPrime	Bangalore	Vikram	108000	Lead	33	10	Retail	Q1	2025
-63	SkillAxis	Delhi	Neha	147000	Proposal	68	4	EdTech	Q1	2025
-64	FinSparkX	Hyderabad	Aarav	310000	Negotiation	62	5	FinTech	Q1	2025
-65	HealthPulse	Chennai	Sneha	202000	Proposal	70	3	Healthcare	Q1	2025
-66	RetailSmart	Mumbai	Rohan	91000	Lead	26	12	Retail	Q1	2025
-67	LearnVision	Chennai	Priya	158000	Negotiation	57	7	EdTech	Q1	2025
-68	PayStream	Hyderabad	Vikram	299000	Proposal	78	2	FinTech	Q1	2025
-69	MediWorks	Bangalore	Neha	212000	Negotiation	54	6	Healthcare	Q1	2025
-70	ShopSmart	Delhi	Aarav	89000	Lead	31	11	Retail	Q1	2025
-71	SkillVision	Chennai	Sneha	138000	Proposal	66	4	EdTech	Q1	2025
-72	FinVision	Mumbai	Rohan	276000	Negotiation	60	5	FinTech	Q1	2025
-73	HealthSphere	Hyderabad	Priya	180000	Proposal	73	3	Healthcare	Q1	2025
-74	RetailFlowX	Bangalore	Vikram	107000	Lead	34	9	Retail	Q1	2025
-75	LearnSphere	Delhi	Neha	150000	Negotiation	61	5	EdTech	Q1	2025
-76	PayFlow	Hyderabad	Aarav	305000	Proposal	79	2	FinTech	Q1	2025
-77	MediLink	Chennai	Sneha	206000	Negotiation	55	6	Healthcare	Q1	2025
-78	ShopLink	Mumbai	Rohan	94000	Lead	29	12	Retail	Q1	2025
-79	SkillLink	Chennai	Priya	154000	Proposal	67	4	EdTech	Q1	2025
-80	FinLinkX	Hyderabad	Vikram	292000	Negotiation	63	5	FinTech	Q1	2025
-81	HealthLink	Bangalore	Neha	198000	Proposal	72	3	Healthcare	Q1	2025
-82	RetailLink	Delhi	Aarav	88000	Lead	30	11	Retail	Q1	2025
-83	LearnLink	Chennai	Sneha	142000	Negotiation	60	6	EdTech	Q1	2025
-84	PayLink	Mumbai	Rohan	271000	Proposal	74	3	FinTech	Q1	2025
-85	MediVision	Hyderabad	Priya	182000	Negotiation	58	5	Healthcare	Q1	2025
-86	ShopVision	Bangalore	Vikram	110000	Lead	33	9	Retail	Q1	2025
-87	SkillStream	Delhi	Neha	146000	Proposal	69	4	EdTech	Q1	2025
-88	FinStream	Hyderabad	Aarav	308000	Negotiation	61	6	FinTech	Q1	2025
-89	HealthStream	Chennai	Sneha	204000	Proposal	71	3	Healthcare	Q1	2025
-90	RetailStream	Mumbai	Rohan	93000	Lead	28	12	Retail	Q1	2025
-91	LearnStream	Chennai	Priya	156000	Negotiation	59	5	EdTech	Q1	2025
-92	PaySphere	Hyderabad	Vikram	297000	Proposal	78	2	FinTech	Q1	2025
-93	MediSphere	Bangalore	Neha	209000	Negotiation	54	6	Healthcare	Q1	2025
-94	ShopSphereX	Delhi	Aarav	90000	Lead	30	11	Retail	Q1	2025
-95	SkillSphere	Chennai	Sneha	141000	Proposal	66	4	EdTech	Q1	2025
-96	FinSphere	Mumbai	Rohan	275000	Negotiation	60	5	FinTech	Q1	2025
-97	HealthEdge	Hyderabad	Priya	185000	Proposal	72	3	Healthcare	Q1	2025
-98	RetailEdge	Bangalore	Vikram	112000	Lead	34	9	Retail	Q1	2025
-99	LearnEdgeX	Delhi	Neha	149000	Negotiation	61	6	EdTech	Q1	2025
-100	PayEdge	Hyderabad	Aarav	300000	Proposal	80	2	FinTech	Q1	2025
+company,region,deal_value,stage,close_probability,last_activity_days,industry
+TechNova,North America,25000,Negotiation,65,5,Technology
+GreenLeaf,Europe,18000,Proposal,55,12,Agriculture
+HealthBridge,Asia,30000,Closed Won,100,2,Healthcare
+AutoDrive,North America,22000,Closed Lost,10,40,Automotive
+FinEdge,Europe,27000,Negotiation,70,4,Finance
+EduSmart,Asia,15000,Prospecting,30,18,Education
+BuildCore,Middle East,35000,Proposal,60,9,Construction
+RetailHive,North America,21000,Negotiation,68,6,Retail
+AgroFuture,Africa,12000,Closed Lost,15,35,Agriculture
+MediTrust,Asia,29000,Closed Won,100,1,Healthcare
+DataNest,Europe,24000,Negotiation,72,3,Technology
+UrbanMove,North America,20000,Proposal,50,10,Transport
+FoodSphere,Asia,17000,Prospecting,28,21,Food
+SolarRise,Middle East,31000,Negotiation,66,7,Energy
+CloudAxis,Europe,33000,Closed Won,100,2,Technology
+SafeBank,North America,26000,Proposal,58,11,Finance
+NextGenEdu,Asia,14000,Prospecting,35,16,Education
+AutoNext,Europe,23000,Closed Lost,20,30,Automotive
+RetailPulse,Africa,19000,Negotiation,62,8,Retail
+HealthWave,Asia,28000,Closed Won,100,3,Healthcare
+BrightFoods,North America,16000,Proposal,48,13,Food
+EcoEnergy,Europe,34000,Negotiation,74,5,Energy
+SmartLogix,Asia,21000,Negotiation,63,7,Logistics
+BuildSphere,Middle East,36000,Closed Won,100,2,Construction
+TechBridge,North America,25000,Proposal,52,14,Technology
+FarmDirect,Africa,13000,Closed Lost,18,32,Agriculture
+SecurePay,Europe,29000,Negotiation,69,4,Finance
+EduFuture,Asia,15500,Prospecting,33,20,Education
+DriveWorks,North America,22000,Proposal,57,12,Automotive
+RetailConnect,Europe,20500,Negotiation,64,6,Retail
+MedLife,Asia,31000,Closed Won,100,1,Healthcare
+FoodChain,Africa,17500,Closed Lost,22,28,Food
+SunVolt,Middle East,34500,Negotiation,71,5,Energy
+DataForge,Europe,26000,Proposal,54,11,Technology
+FastMove,North America,21500,Negotiation,67,6,Transport
+GreenFarm,Africa,12500,Prospecting,29,19,Agriculture
+CarePlus,Asia,29500,Closed Won,100,2,Healthcare
+MoneyWave,Europe,27500,Negotiation,73,3,Finance
+LearnHub,Asia,14500,Proposal,49,15,Education
+AutoCore,North America,23500,Closed Lost,16,33,Automotive
+ShopFlow,Europe,20000,Negotiation,65,7,Retail
+NutriFoods,Asia,16500,Prospecting,31,22,Food
+EcoGrid,Middle East,32000,Negotiation,70,6,Energy
+CodeMatrix,Europe,28500,Proposal,56,10,Technology
+QuickShip,North America,21000,Negotiation,68,5,Logistics
+FarmLink,Africa,13500,Closed Lost,19,29,Agriculture
+MediCareX,Asia,30500,Closed Won,100,1,Healthcare
+FinTrust,Europe,26500,Negotiation,72,4,Finance
+SkillBoost,Asia,15000,Prospecting,34,18,Education
+DriveMax,North America,24000,Proposal,53,12,Automotive
