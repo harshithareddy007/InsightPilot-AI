@@ -1,51 +1,51 @@
-company,region,deal_value,stage,close_probability,last_activity_days,industry
-TechNova,North America,25000,Negotiation,65,5,Technology
-GreenLeaf,Europe,18000,Proposal,55,12,Agriculture
-HealthBridge,Asia,30000,Closed Won,100,2,Healthcare
-AutoDrive,North America,22000,Closed Lost,10,40,Automotive
-FinEdge,Europe,27000,Negotiation,70,4,Finance
-EduSmart,Asia,15000,Prospecting,30,18,Education
-BuildCore,Middle East,35000,Proposal,60,9,Construction
-RetailHive,North America,21000,Negotiation,68,6,Retail
-AgroFuture,Africa,12000,Closed Lost,15,35,Agriculture
-MediTrust,Asia,29000,Closed Won,100,1,Healthcare
-DataNest,Europe,24000,Negotiation,72,3,Technology
-UrbanMove,North America,20000,Proposal,50,10,Transport
-FoodSphere,Asia,17000,Prospecting,28,21,Food
-SolarRise,Middle East,31000,Negotiation,66,7,Energy
-CloudAxis,Europe,33000,Closed Won,100,2,Technology
-SafeBank,North America,26000,Proposal,58,11,Finance
-NextGenEdu,Asia,14000,Prospecting,35,16,Education
-AutoNext,Europe,23000,Closed Lost,20,30,Automotive
-RetailPulse,Africa,19000,Negotiation,62,8,Retail
-HealthWave,Asia,28000,Closed Won,100,3,Healthcare
-BrightFoods,North America,16000,Proposal,48,13,Food
-EcoEnergy,Europe,34000,Negotiation,74,5,Energy
-SmartLogix,Asia,21000,Negotiation,63,7,Logistics
-BuildSphere,Middle East,36000,Closed Won,100,2,Construction
-TechBridge,North America,25000,Proposal,52,14,Technology
-FarmDirect,Africa,13000,Closed Lost,18,32,Agriculture
-SecurePay,Europe,29000,Negotiation,69,4,Finance
-EduFuture,Asia,15500,Prospecting,33,20,Education
-DriveWorks,North America,22000,Proposal,57,12,Automotive
-RetailConnect,Europe,20500,Negotiation,64,6,Retail
-MedLife,Asia,31000,Closed Won,100,1,Healthcare
-FoodChain,Africa,17500,Closed Lost,22,28,Food
-SunVolt,Middle East,34500,Negotiation,71,5,Energy
-DataForge,Europe,26000,Proposal,54,11,Technology
-FastMove,North America,21500,Negotiation,67,6,Transport
-GreenFarm,Africa,12500,Prospecting,29,19,Agriculture
-CarePlus,Asia,29500,Closed Won,100,2,Healthcare
-MoneyWave,Europe,27500,Negotiation,73,3,Finance
-LearnHub,Asia,14500,Proposal,49,15,Education
-AutoCore,North America,23500,Closed Lost,16,33,Automotive
-ShopFlow,Europe,20000,Negotiation,65,7,Retail
-NutriFoods,Asia,16500,Prospecting,31,22,Food
-EcoGrid,Middle East,32000,Negotiation,70,6,Energy
-CodeMatrix,Europe,28500,Proposal,56,10,Technology
-QuickShip,North America,21000,Negotiation,68,5,Logistics
-FarmLink,Africa,13500,Closed Lost,19,29,Agriculture
-MediCareX,Asia,30500,Closed Won,100,1,Healthcare
-FinTrust,Europe,26500,Negotiation,72,4,Finance
-SkillBoost,Asia,15000,Prospecting,34,18,Education
-DriveMax,North America,24000,Proposal,53,12,Automotive
+company,email,sales_rep,region,industry,deal_value,stage,close_probability,last_activity_days
+SmartWare,contact@smartware.com,Karan,Delhi,Retail,177219,Proposal,59,2
+MedLife,contact@medlife.com,Meera,Pune,Logistics,119649,Lead,74,10
+BuildMate,contact@buildmate.com,Rahul,Chennai,Finance,41180,Proposal,76,11
+MedLife,contact@medlife.com,Vikram,Pune,Technology,170550,Negotiation,71,16
+EduNext,contact@edunext.com,Rahul,Delhi,Finance,70441,Proposal,88,3
+AutoDrive,contact@autodrive.com,Rahul,Bangalore,Healthcare,129244,Lead,81,7
+MarketFlow,contact@marketflow.com,Vikram,Delhi,Logistics,177657,Negotiation,60,12
+NextGenAI,contact@nextgenai.com,Meera,Pune,Logistics,64703,Proposal,70,5
+TechNova,contact@technova.com,Sneha,Pune,Logistics,70323,Proposal,68,7
+AgroGrow,contact@agrogrow.com,Rahul,Pune,Healthcare,129232,Negotiation,21,7
+VisionTech,contact@visiontech.com,Sneha,Chennai,Logistics,150458,Lead,39,14
+FoodNest,contact@foodnest.com,Ananya,Mumbai,Technology,119450,Negotiation,48,19
+SmartWare,contact@smartware.com,Meera,Bangalore,Education,70095,Negotiation,65,18
+TravelSphere,contact@travelsphere.com,Ananya,Pune,Finance,59683,Proposal,90,15
+BuildMate,contact@buildmate.com,Ananya,Chennai,Retail,45016,Closing,76,6
+RetailHub,contact@retailhub.com,Meera,Chennai,Technology,119303,Negotiation,62,7
+BuildMate,contact@buildmate.com,Priya,Chennai,Healthcare,166143,Proposal,73,18
+TravelSphere,contact@travelsphere.com,Ananya,Bangalore,Logistics,74703,Negotiation,66,12
+MedLife,contact@medlife.com,Meera,Delhi,Healthcare,63398,Closing,84,15
+GreenEnergy,contact@greenenergy.com,Meera,Mumbai,Finance,151835,Negotiation,24,2
+AutoDrive,contact@autodrive.com,Arjun,Pune,Finance,182020,Proposal,87,19
+MedLife,contact@medlife.com,Vikram,Chennai,Logistics,61606,Lead,71,5
+CloudAxis,contact@cloudaxis.com,Priya,Mumbai,Retail,192621,Negotiation,47,13
+EduNext,contact@edunext.com,Ananya,Delhi,Finance,144586,Proposal,55,7
+MarketFlow,contact@marketflow.com,Rahul,Delhi,Education,155195,Proposal,36,9
+SmartWare,contact@smartware.com,Meera,Delhi,Technology,148303,Lead,52,13
+AgroGrow,contact@agrogrow.com,Karan,Pune,Technology,83907,Lead,28,9
+VisionTech,contact@visiontech.com,Karan,Pune,Healthcare,187495,Negotiation,35,10
+AgroGrow,contact@agrogrow.com,Priya,Hyderabad,Education,104884,Lead,56,20
+DataBridge,contact@databridge.com,Priya,Hyderabad,Technology,135282,Closing,23,4
+AutoDrive,contact@autodrive.com,Ananya,Bangalore,Finance,77029,Lead,64,5
+TechNova,contact@technova.com,Sneha,Hyderabad,Technology,176585,Closing,49,16
+AgroGrow,contact@agrogrow.com,Karan,Hyderabad,Finance,55307,Closing,35,18
+HealthCorp,contact@healthcorp.com,Vikram,Bangalore,Technology,40066,Closing,28,6
+AgroGrow,contact@agrogrow.com,Priya,Chennai,Education,98949,Proposal,22,16
+NextGenAI,contact@nextgenai.com,Ananya,Chennai,Technology,57355,Negotiation,77,10
+SmartWare,contact@smartware.com,Vikram,Delhi,Healthcare,175849,Closing,56,13
+MarketFlow,contact@marketflow.com,Ananya,Delhi,Logistics,161184,Negotiation,57,18
+VisionTech,contact@visiontech.com,Karan,Hyderabad,Technology,129917,Lead,80,14
+ShopEase,contact@shopease.com,Vikram,Pune,Technology,108469,Closing,24,5
+ShopEase,contact@shopease.com,Sneha,Pune,Technology,111812,Proposal,83,15
+FoodNest,contact@foodnest.com,Ananya,Chennai,Technology,189981,Closing,38,3
+LogiTrack,contact@logitrack.com,Rahul,Chennai,Healthcare,53714,Closing,45,7
+BuildMate,contact@buildmate.com,Priya,Chennai,Healthcare,175649,Negotiation,25,8
+HealthCorp,contact@healthcorp.com,Priya,Mumbai,Finance,127169,Lead,43,17
+AgroGrow,contact@agrogrow.com,Rahul,Delhi,Finance,140290,Negotiation,69,9
+SmartWare,contact@smartware.com,Ananya,Delhi,Retail,179147,Proposal,61,4
+NextGenAI,contact@nextgenai.com,Karan,Chennai,Retail,90872,Negotiation,54,11
+SmartWare,contact@smartware.com,Arjun,Mumbai,Technology,66157,Proposal,29,15
+CloudAxis,contact@cloudaxis.com,Priya,Delhi,Healthcare,110906,Negotiation,60,11
