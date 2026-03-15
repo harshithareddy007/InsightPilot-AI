@@ -46,6 +46,7 @@ from groq import Groq
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from simple_salesforce import Salesforce
 
 
 # ================= CONFIG =================
@@ -467,3 +468,12 @@ elif page=="Executive Insights":
     )
 
     st.plotly_chart(fig)
+
+def connect_salesforce():
+
+    sf = Salesforce(
+        instance_url="https://orgfarm-aba38adc36-dev-ed.my.salesforce.com",
+        session_id="00DdL00000qs2q5%21AQEAQBn3TrE07qOniMhwOiTQ7zGTYvEGPZojELg7wk39edFb8lcMqABW1n.OXalQ6A0kyxIF0gXc.AOFBpBK6_Y4jAattEZ1"
+    )
+
+    return sf
